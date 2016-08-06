@@ -1,14 +1,10 @@
+# INTRODUCTION
 
+This document serves as the official rulebook for any Pet Me Main tournaments or events. These rules may be modified at any time. To see specific rule changes and updates, please view the file "Revision and Updates.md"
 
-INTRODUCTION
-~~~~~~~~~~~~~~~~~~~~
+# LINGO
 
-This document serves as the official rulebook for any Pet Me Main tournaments or events. These rules may be modified at any time. To see specific rule changes and updates, please view the file "Revision and Updates.txt"
-
-LINGO
-~~~~~~~~~~~~~~~~~~~~
-
-The terms below (otherwise known as 'lingo') will be used throughout this document. Please consult back to this portion if needed. [note: lingo is organized in alphabetical order]
+The terms below (otherwise known as *"lingo"*) will be used throughout this document. Please consult back to this portion if needed. [note: lingo is organized in alphabetical order]
 
 -----
 
