@@ -26,9 +26,13 @@ The terms below (otherwise known as *'lingo'*) will be used throughout this docu
 
 **Event Director** - The person solely responsible for the how the event is organized and run.
 
+**Hard Reset** - If a match was played and is needed to be fully restarted, a hard reset may be put in place. All settings and specifics of the game will be erased.
+
 **Round-Robin (RR)** - A tournament style where each competing team or player plays against all other competitors regardless of winning or losing until all competitors have played against each-other.
 
 **Single Elimination (SE)** - A tournament style where a single-loss eliminates the competing team or player from the bracket.
+
+**Soft Reset** - If a match was played more than 3 seconds (out of game), but is needed to be reset, all settings and specifics of the game may be kept in-place, with the game restarting.
 
 **Start Time** - The date and time of the event or tournament.
 
