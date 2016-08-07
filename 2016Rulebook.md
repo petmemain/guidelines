@@ -18,6 +18,8 @@ The terms below (otherwise known as *'lingo'*) will be used throughout this docu
 
 **Blind Pick** - A match or tournament where the competing teams or players are not able to see what the opposing side has chosen until the match starts.
 
+**Bracket Start Time** - The time which the first match of a bracket will begin.
+
 **Double Elimination (DE)** - A tournament style where two losses eliminates the competing team or player from the bracket. *note: double elimination tournaments may have an extra bracket specifically for losing competitors.*
 
 **Draft Pick** - A match or tournament where the competing teams or players pick and ban out three* options for the opposing side. *\*note: draft picks usually have a total of three bans per-side. however, this may be increased or lowered depending on game, match, tournament, or event.*
@@ -27,6 +29,8 @@ The terms below (otherwise known as *'lingo'*) will be used throughout this docu
 **Round-Robin (RR)** - A tournament style where each competing team or player plays against all other competitors regardless of winning or losing until all competitors have played against each-other.
 
 **Single Elimination (SE)** - A tournament style where a single-loss eliminates the competing team or player from the bracket.
+
+**Start Time** - The date and time of the event or tournament.
 
 **Tournament Organizer (TO)** - Persons responsible for bracketing, disputes, and other various tournament-related duties. *note: while they're responsible for handling disputes, the Event Director has the final say and may take action anyway they see fit.*
 
